@@ -1,4 +1,4 @@
-cd desktopimport java.util.Scanner;
+java.util.Scanner;
 class BankAccount
 {
 String name;
